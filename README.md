@@ -20,22 +20,7 @@ A clean and beginner-friendly calculator built using **HTML**, **CSS**, and **Ja
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
 
-```
-calculator/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
-## 📸 Preview
-
-<img width="400" alt="Calculator Preview" src="https://via.placeholder.com/400x250?text=Calculator+Preview">
-
-> Replace the image above with a screenshot of your calculator.
 
 ## ⚡ Getting Started
 
